@@ -87,6 +87,6 @@ Sometimes we want to include other types of content such as `.pdf`'s. To add fro
 
 ## Contributing
 
-Your contributions to the Stellar network will help improve the world’s financial infrastructure, faster.
+Your contributions to the XinFin network will help improve the world’s financial infrastructure, faster.
 
-We want to make it as easy as possible to contribute changes that help the Stellar network grow and thrive. There are a few guidelines that we ask contributors to follow so that we can merge your changes quickly. Please read our [Contribution Guide](https://github.com/xinfinOrg/docs/blob/master/CONTRIBUTING.md) and sign our [Contributor License Agreement].
+We want to make it as easy as possible to contribute changes that help the XinFin network grow and thrive. There are a few guidelines that we ask contributors to follow so that we can merge your changes quickly. Please read our [Contribution Guide](https://github.com/xinfinOrg/docs/blob/master/CONTRIBUTING.md) and sign our [Contributor License Agreement].
