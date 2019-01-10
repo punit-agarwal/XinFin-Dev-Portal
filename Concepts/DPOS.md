@@ -1,5 +1,5 @@
 ---
-title: Understanding DPoS
+title: DPoS
 ---
 
 ### Understand Features and Attack Vectors of DPoS
