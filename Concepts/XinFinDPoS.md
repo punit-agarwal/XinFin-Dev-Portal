@@ -1,4 +1,6 @@
-### Understanding XinFin DPoS
+---
+title: Understanding XinFin DPoS
+---
 
 #### Technicalities and Specifications of XinFin Delegated Proof of Stake
 
