@@ -1,4 +1,6 @@
-### **SMART CONTRACTS**
+---
+title: Smart Contracts
+---
 
 #### **Introduction**
 
