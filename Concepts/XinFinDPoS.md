@@ -96,8 +96,7 @@ the last nominator will be refunded 95.
 
 ### Rewards
 
-Rewards are assigned via the [Rewards
-Contract](https://hackmd.io/i5npHV2DQTWY0WJ3JYJJRg?view#Rewards-Contract).
+Rewards are assigned via the Rewards Contract
 
 * Rewards for active Validators are calculated as a percentage of total stake,
 `VALIDATOR_REWARD`.
