@@ -1,4 +1,6 @@
-## SETUP MASTERNODES
+---
+title: Setup MasterNodes
+---
 
 This guide will demonstrate how to set up a single masternode for the very first
 time. You will need the following before starting:
