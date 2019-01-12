@@ -10,9 +10,7 @@ Deploying and using contract will need to consume a certain amount of resource
 (memory, CPU, and storage etc.). Therefore, it is recommended that the
 developers tune and test their smart contracts on their private networks and
 confirm that the contract is available before deploying them on the TestNet or
-MainNet. Please see [Deployment of FullNode (PrivateNet: Just one witness node)
-on the one host](https://github.com/tronprotocol/TronDeployment) for further
-details on building a private network.
+MainNet.
 
 #### 2. Wallet Client
 
@@ -22,14 +20,9 @@ to post and deploy contracts on the MainNet as well as execute other operations.
 ### Smart Contract Development
 
 At this point, we recommend [Remix](http://remix.ethereum.org/) as the coding
-environment for compiling and testing during the early stages. After the
-contract is finished, developers can copy the contract to
-[SimpleWebCompiler](https://github.com/tronprotocol/tron-demo/tree/master/SmartContractTools/SimpleWebCompiler)
-for further development and then acquire ABI and ByteCode. We present a simple
+environment for compiling and testing during the early stages. We present a simple
 example of contract code of data access to illustrate the process of compiling,
 deployment, and debugging.
-
-
 
 #### **1. Initiate the Private Chain**
 
