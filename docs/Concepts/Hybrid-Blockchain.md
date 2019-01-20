@@ -16,14 +16,14 @@ that a company can work with their stakeholders in the best possible way.
 #### BENEFITS:
 
 1.  **Works in a closed ecosystem:** The number one advantage of hybrid blockchain
-is its ability to work in a closed ecosystem. That’s means that companies or
-organization don’t have to worry about getting their information leaked when
+is its ability to work in a closed ecosystem. That means that companies or
+organizations don’t have to worry about getting their information leaked when
 taking advantage of blockchain technology.
 1.  **Changes the rules when needed:** Companies thrive on change. The good news
-about hybrid blockchain as they need to change rules. However, the nature of the
-change depends on the what the hybrid blockchain is trying to do. However, don’t
+about hybrid blockchain is that they need to change rules. However, the nature of the
+change depends on what the hybrid blockchain is trying to do. However, don’t
 expect to change data or modify transactions in a hybrid system that handles
-band registry or user identity for verification purposes.
+land registry or user identity for verification purposes.
 1.  **Protecting from 51% attack:** Hybrid blockchain are immune to a 51% attack as
 hackers cannot have access to the network to carry out the attack.
 1.  **Protecting privacy while still communicating with the outer world:** Even
