@@ -34,20 +34,20 @@ of income becomes a major incentive against bad behaviour.
 
 #### Why DPoS?
 
-1.  **Scalability**Blocks can be propagated through the network much more
+1.  **Scalability** Blocks can be propagated through the network much more
 efficiently. And blocks can be produced more consistently and reliably in a much
-shorter time frame, moreover, finality can be reached as soon as ⅔ of the block
+shorter time frame. Moreover, finality can be reached as soon as ⅔ of the block
 producer has confirmed a transaction.
-1.  **Network Infrastructure**In DPoS users have control over who will provide the
+1.  **Network Infrastructure** In DPoS users have control over who will provide the
 infrastructure unlike PoW and PoS, where users have no choice on validators. In
-DPoS validators can be thought of as employees of users(nominators) and can be
+DPoS, validators can be thought of as employees of users(nominators) and can be
 fired for not performing their duties.
-1.  **On-Chain Governance**DPoS is a liquid form of democracy where voting power can
+1.  **On-Chain Governance** DPoS is a liquid form of democracy where voting power can
 be allocated to other participants and votes can be changed at any time. While
 block producers are the primary use case, but token holder voting can be
 conducted on different things like monetary policy, development funding and many
 more.
-1.  **Self-Funding Through Inflation**In DPoS, unlike PoS or PoW where miners get
+1.  **Self-Funding Through Inflation** In DPoS, unlike PoS or PoW where miners get
 rewards for validating a block, inflation is used to pay block producers as well
 as to fund the development of platform itself.
 
