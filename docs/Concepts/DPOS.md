@@ -72,13 +72,13 @@ transaction and double spends. Although these situations are highly unlikely.
 ### Conclusion
 
 Delegated Proof of Stake(DPoS) is an elegant, robust and practically proven
-solution to the scalability issues of Blockchain. Although DPoS does compromise
+solution to the scalability issues of Blockchain. Although, DPoS does compromise
 decentralization in some sense, and it is up to token holders to monitor the
 health of the system, watch for bad behaviour and decide upon what makes for
 sufficient decentralization.<br> It still solves the scalability and safety
-issues in Blockchain. And all in all if not everywhere DPoS can still be used as
+issues in Blockchain. And, all in all if not everywhere DPoS can still be used as
 a Layer 2 or Layer 3 security while keeping a PoW system as a security base
-layer, it will help us achieve decentralization, safety as well as scalability
+layer. It will help us achieve decentralization, safety as well as scalability
 which is the most important issue of current blockchain networks.
 
 <br> 
